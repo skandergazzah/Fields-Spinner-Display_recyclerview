@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjetAndroid</string>
+    <string name="nature_metal_prompt">Choissisez un materiau</string>
+    <string name="Ajouter">Ajouter</string>
+    <string-array name="naturedutube">
+        <item>Plomb</item>
+        <item>Zinc</item>
+        <item>Aluminium</item>
+        <item>Cuivre</item>
+        <item>Acier</item>
+        <item>Laiton</item>
+        <item>Verre</item>
+    </string-array>
+</resources>
